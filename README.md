@@ -64,21 +64,6 @@ The analysis is based on a dataset containing detailed Uber trip records. Key da
 
 *   **Microsoft Power BI:** For data modeling, DAX calculations, visualization, and dashboard creation.
 
-## Dashboard Screenshots
 
-**Overview Analysis Page:**
-![Overview Analysis](image.png)
 
-**Time Analysis Page:**
-![Time Analysis](image_1.png)
 
-**Details Page:**
-![Details](image_2.png)
-
-## How to Use/View
-
-Currently, only static screenshots of the dashboard are provided. To interact with the full dashboard functionalities (like filtering by city or specific dates), the original Power BI (`.pbix`) file or a published link would be required.
-
----
-
-*This README provides a summary based on the visual elements presented in the screenshots.*
